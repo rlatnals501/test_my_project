@@ -1,1 +1,2 @@
 this is a line with feature x
+this is a line with feature y
